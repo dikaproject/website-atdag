@@ -525,8 +525,8 @@ section#countdown:after {
 }
 
 .countdown span.label {
-    font-size: 0.9375rem;
-    font-weight: 600;
+    font-size: 3rem;
+    font-weight: 1000;
     display: block;
     color: #ffffff;
 }
