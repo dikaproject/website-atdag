@@ -152,6 +152,20 @@
             </div>
         </div>
 
+        <form action="{{ route('komentar.store') }}" method="POST">
+            @csrf
+            <div>
+                <label for="nama">Nama:</label>
+                <input type="text" id="nama" name="nama" required>
+            </div>
+            <div>
+                <label for="komentar">Komentar:</label>
+                <textarea id="komentar" name="komentar" required></textarea>
+            </div>
+            <button type="submit">Kirim Komentar</button>
+        </form>
+
+
         <!--End row-->
     </div>
 </section>

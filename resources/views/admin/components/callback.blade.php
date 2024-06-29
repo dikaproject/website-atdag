@@ -34,8 +34,9 @@
 
         <div id="main-content" class="relative w-full h-full overflow-y-auto bg-gray-50 lg:ml-64 dark:bg-gray-900">
             <main>
-
-
+                @yield('agenda_create')
+                @yield('agenda_index')
+                @yield('agenda_edit')
             </main>
             @include('admin.components.footer')
         </div>
@@ -45,6 +46,7 @@
     <script async defer src="https://buttons.github.io/buttons.js"></script>
     <script src="https://cdnjs.cloudflare.com/ajax/libs/flowbite/1.6.2/datepicker.min.js"></script>
     <script src="https://cdn.jsdelivr.net/npm/toastify-js"></script>
+    @yield('scripts_tinymce')
 
 </body>
 
