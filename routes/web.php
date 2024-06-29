@@ -40,7 +40,7 @@ Route::post('/', [KomentarController::class, 'store'])->name('komentar.store');
 Route::get('/admin/agenda', [AgendaController::class, 'index'])->name('admin.agenda.index');
 Route::get('/admin/agenda/create', [AgendaController::class, 'create'])->name('admin.agenda.create');
 Route::post('/admin/agenda/store', [AgendaController::class, 'store'])->name('admin.agenda.store');
-Route::get('/admin/agenda/edit/{id}', [AgendaController::class, 'edit'])->name('admin.agenda.edit');
-Route::post('/admin/agenda/update/{id}', [AgendaController::class, 'update'])->name('admin.agenda.update');
-Route::get('/admin/agenda/delete/{id}', [AgendaController::class, 'delete'])->name('admin.agenda.destroy');
+Route::get('/admin/agenda/{agenda}/edit', [AgendaController::class, 'edit'])->name('admin.agenda.edit');
+Route::put('admin/agenda/update/{agenda}', [AgendaController::class, 'update'])->name('admin.agenda.update');
+
 

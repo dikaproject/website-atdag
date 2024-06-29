@@ -40,7 +40,7 @@ class AgendaController extends Controller
     public function update(Request $request, Agenda $agenda)
     {
         $request->validate([
-            'date' => 'required',
+            'date' => '',
             'agenda' => 'required',
             'time' => 'required',
         ]);
