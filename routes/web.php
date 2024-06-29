@@ -1,7 +1,7 @@
 <?php
 
 use Illuminate\Support\Facades\Route;
-use App\Http\Controllers\AdminController;
+use App\Http\Controllers\Admin\AdminController;
 use App\Http\Controllers\AgendaController;
 use App\Models\Agenda;
 use App\Http\Controllers\KomentarController;
@@ -23,8 +23,9 @@ Route::get('/', function () {
     return view('home.index', compact('agendas'));
 });
 
-Route::get('/admin', function() {
- return view('admin.dashboard');
+/* admin routes */
+Route::middleware('admin')->prefix('admin')->group(function () {
+    Route::get('/dashboard', [AdminController::class, 'dashboard'])->name('admin_dashboard');
 });
 
 Route::prefix('admin')->group(function () {
@@ -37,10 +38,13 @@ Route::post('/', [KomentarController::class, 'store'])->name('komentar.store');
 
 
 // crud routes agenda
+Route::middleware(['admin'])->group(function () {
 Route::get('/admin/agenda', [AgendaController::class, 'index'])->name('admin.agenda.index');
 Route::get('/admin/agenda/create', [AgendaController::class, 'create'])->name('admin.agenda.create');
 Route::post('/admin/agenda/store', [AgendaController::class, 'store'])->name('admin.agenda.store');
 Route::get('/admin/agenda/{agenda}/edit', [AgendaController::class, 'edit'])->name('admin.agenda.edit');
 Route::put('admin/agenda/update/{agenda}', [AgendaController::class, 'update'])->name('admin.agenda.update');
+});
+
 
 
