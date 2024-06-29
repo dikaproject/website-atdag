@@ -3,7 +3,7 @@
         <div class="container">
             <div class="row gy-5">
                 <div class="col-lg-3 col-sm-6">
-                    <a href="#"><img src="./assets/images/logo.png" alt=""></a>
+                    <a href="#"><img src="{{ asset('assets/images/logo.png')}}" alt=""></a>
                     <div class="line"></div>
                     <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Exercitationem, hic!
                     </p>

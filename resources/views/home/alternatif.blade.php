@@ -15,7 +15,7 @@
                 <div class="team-member image-zoom">
                     <div class="image-zoom-wrapper">
                         <a href="https://ibis-styles-melbourne-the-victoria-hotel.hotelmix.id/" target="_blank">
-                            <img src="./assets/Gambar HD/the victoria.png" alt="">
+                            <img src="{{ asset('assets/Gambar HD/the victoria.png')}}" alt="">
                         </a>
                     </div>
                     <div class="team-member-content">
@@ -28,7 +28,7 @@
                 <div class="team-member image-zoom">
                     <div class="image-zoom-wrapper">
                         <a href="https://all.accor.com/hotel/6371/index.en.shtml" target="_blank">
-                            <img src="./assets/Gambar HD/ibis budget.png" alt="">
+                            <img src="{{ asset('assets/Gambar HD/ibis budget.png')}}" alt="">
                         </a>
                     </div>
                     <div class="team-member-content">
@@ -42,7 +42,7 @@
                     <div class="image-zoom-wrapper">
                         <a href="https://www.booking.com/hotel/au/grand-chancellor-melbourne.en-gb.html"
                             target="_blank">
-                            <img src="./assets/Gambar HD/grand chancellor.png" alt="">
+                            <img src="{{ asset('assets/Gambar HD/grand chancellor.png')}}" alt="">
                         </a>
                     </div>
                     <div class="team-member-content">
@@ -57,7 +57,7 @@
                 <div class="team-member image-zoom">
                     <div class="image-zoom-wrapper">
                         <a href="https://www.booking.com/hotel/au/oaks-on-market.en-gb.html" target="_blank">
-                            <img src="./assets/Gambar HD/oaks on market.png" alt="">
+                            <img src="{{ asset('assets/Gambar HD/oaks on market.png')}}" alt="">
                         </a>
                     </div>
                     <div class="team-member-content">
@@ -71,7 +71,7 @@
                     <div class="image-zoom-wrapper">
                         <a href="https://www.booking.com/hotel/au/ibis-melbourne-central.en-gb.html?aid=356980&label=gog235jc-1DCAsoD0IWaWJpcy1tZWxib3VybmUtY2VudHJhbEgzWANoaIgBAZgBCbgBF8gBDNgBA-gBAYgCAagCA7gCmPfuswbAAgHSAiQ0MjdmOTI3ZS01NjllLTRkMTctYjhmOC0wYzE3MmM4NDBiNjDYAgTgAgE&sid=a38604593704132f0d59cb204c406cd6&dist=0&keep_landing=1&sb_price_type=total&type=total&"
                             target="_blank">
-                            <img src="./assets/Gambar HD/ibis central.png" alt="">
+                            <img src="{{ asset('assets/Gambar HD/ibis central.png')}}" alt="">
                         </a>
                     </div>
                     <div class="team-member-content">
@@ -85,7 +85,7 @@
                     <div class="image-zoom-wrapper">
                         <a href="https://www.booking.com/hotel/au/novotel-melbourne-south-wharf.en-gb.html"
                             target="_blank">
-                            <img src="./assets/Gambar HD/novotel.png" alt="">
+                            <img src="{{ asset('assets/Gambar HD/novotel.png')}}" alt="">
                         </a>
                     </div>
                     <div class="team-member-content">
@@ -107,7 +107,7 @@
                 <div class="team-member image-zoom">
                     <div class="image-zoom-wrapper">
                         <a href="" target="_blank">
-                            <img src="./assets/images/makanan-menu.jpeg" alt="">
+                            <img src="{{ asset('assets/images/makanan-menu.jpeg')}}" alt="">
                         </a>
                     </div>
                     <div class="team-member-content">
@@ -119,7 +119,7 @@
                 <div class="team-member image-zoom">
                     <div class="image-zoom-wrapper">
                         <a href="l" target="_blank">
-                            <img src="./assets/Gambar HD/makanan1.png" alt="" style="border-radius: 12px">
+                            <img src="{{ asset('assets/Gambar HD/makanan1.png')}}" alt="" style="border-radius: 12px">
                         </a>
                     </div>
                     <div class="team-member-content">
@@ -131,7 +131,7 @@
                 <div class="team-member image-zoom">
                     <div class="image-zoom-wrapper">
                         <a href="" target="_blank">
-                            <img src="./assets/Gambar HD/makanan2.png" alt="" style="border-radius: 12px">
+                            <img src="{{ asset('assets/Gambar HD/makanan2.png')}}" alt="" style="border-radius: 12px">
                         </a>
                     </div>
                     <div class="team-member-content">
@@ -143,7 +143,7 @@
                 <div class="team-member image-zoom">
                     <div class="image-zoom-wrapper">
                         <a href="" target="_blank">
-                            <img src="./assets/images/karedok.jpeg" alt="">
+                            <img src="{{ asset('assets/images/karedok.jpeg')}}" alt="">
                         </a>
                     </div>
                     <div class="team-member-content">
@@ -156,7 +156,7 @@
                     <div class="image-zoom-wrapper">
                         <a href=""
                             target="_blank">
-                            <img src="./assets/images/rendang.jpeg" alt="">
+                            <img src="{{ asset('assets/images/rendang.jpeg')}}" alt="">
                         </a>
                     </div>
                     <div class="team-member-content">
@@ -209,7 +209,7 @@
                     </div>
                     <div class="review-person mt-4 d-flex align-items-center">
                         <a href="https://en.wikipedia.org/wiki/Federation_Square" target="_blank">
-                            <img class="rounded-circle" src="./assets/Gambar HD/city tour3.png" alt=""
+                            <img class="rounded-circle" src="{{ asset('assets/Gambar HD/city tour3.png')}}" alt=""
                                 style="width: 72px; height: 72px;">
                         </a>
                         <div class="ms-3">
@@ -238,7 +238,7 @@
                     </div>
                     <div class="review-person mt-4 d-flex align-items-center">
                         <a href="https://www.rbg.vic.gov.au/melbourne-gardens/" target="_blank">
-                            <img class="rounded-circle" src="./assets/Gambar HD/city tour2.png" alt=""
+                            <img class="rounded-circle" src="{{ asset('assets/Gambar HD/city tour2.png')}}" alt=""
                                 style="width: 72px; height: 72px;">
                         </a>
                         <div class="ms-3">
@@ -265,7 +265,7 @@
                     </div>
                     <div class="review-person mt-4 d-flex align-items-center">
                         <a href="https://en.wikipedia.org/wiki/National_Gallery_of_Victoria" target="_blank">
-                            <img class="rounded-circle" src="./assets/Gambar HD/58.png" alt=""
+                            <img class="rounded-circle" src="{{ asset('assets/Gambar HD/58.png')}}" alt=""
                                 style="width: 72px; height: 72px;">
                         </a>
                         <div class="ms-3">
@@ -293,7 +293,7 @@
                     </div>
                     <div class="review-person mt-4 d-flex align-items-center">
                         <a href="https://www.visitphillipisland.com.au/" target="_blank">
-                            <img class="rounded-circle" src="./assets/Gambar HD/59.png" alt=""
+                            <img class="rounded-circle" src="{{ asset('assets/Gambar HD/59.png')}}" alt=""
                                 style="width: 72px; height: 72px;">
                         </a>
                         <div class="ms-3">
@@ -321,7 +321,7 @@
                     </div>
                     <div class="review-person mt-4 d-flex align-items-center">
                         <a href="https://en.wikipedia.org/wiki/Yarra_Valley" target="_blank">
-                            <img class="rounded-circle" src="./assets/Gambar HD/61.png" alt=""
+                            <img class="rounded-circle" src="{{ asset('assets/Gambar HD/61.png')}}" alt=""
                                 style="width: 72px; height: 72px;">
                         </a>
                         <div class="ms-3">
@@ -349,7 +349,7 @@
                     </div>
                     <div class="review-person mt-4 d-flex align-items-center">
                         <a href="https://www.mountbawbaw.com.au/" target="_blank">
-                            <img class="rounded-circle" src="./assets/Gambar HD/bawbaw3.png" alt=""
+                            <img class="rounded-circle" src="{{ asset('assets/Gambar HD/bawbaw3.png')}}" alt=""
                                 style="width: 72px; height: 72px;">
                         </a>
                         <div class="ms-3">
@@ -378,7 +378,7 @@
                     <div class="review-person mt-4 d-flex align-items-center">
                         <a href="https://www.visitmelbourne.com/regions/melbourne/see-and-do/nature-and-wildlife/beaches-and-coastlines/vv-st-kilda-beach"
                             target="_blank">
-                            <img class="rounded-circle" src="./assets/Gambar HD/60.png" alt=""
+                            <img class="rounded-circle" src="{{ asset('assets/Gambar HD/60.png')}}" alt=""
                                 style="width: 72px; height: 72px;">
                         </a>
                         <div class="ms-3">
@@ -406,7 +406,7 @@
                     </div>
                     <div class="review-person mt-4 d-flex align-items-center">
                         <a href="https://www.ballarat.vic.gov.au/" target="_blank">
-                            <img class="rounded-circle" src="./assets/Gambar HD/hill2.png" alt=""
+                            <img class="rounded-circle" src="{{ asset('assets/Gambar HD/hill2.png')}}" alt=""
                                 style="width: 72px; height: 72px;">
                         </a>
                         <div class="ms-3">
@@ -434,7 +434,7 @@
                     </div>
                     <div class="review-person mt-4 d-flex align-items-center">
                         <a href="https://macollege.vic.edu.au/" target="_blank">
-                            <img class="rounded-circle" src="./assets/Gambar HD/visit muhammadiyah1.png" alt=""
+                            <img class="rounded-circle" src="{{ asset('assets/Gambar HD/visit muhammadiyah1.png')}}" alt=""
                                 style="width: 72px; height: 72px;">
                         </a>
                         <div class="ms-3">
@@ -498,7 +498,7 @@
 
 <!-- Lokasi -->
 <section class="section-padding bg-light" id="lokasi"
-    style=" background: linear-gradient(rgba(var(--c-brand-rgb), 0.4), rgba(var(--c-brand-rgb), 0.6)), url(./assets/images/hero-img\ \(1\).png); background-size: cover;">
+    style=" background: linear-gradient(rgba(var(--c-brand-rgb), 0.4), rgba(var(--c-brand-rgb), 0.6)), url(assets/images/hero-img\ \(1\).png); background-size: cover;">
     <div class="container">
         <div class="row">
             <div class="col-12 text-center" data-aos="fade-down" data-aos-delay="150">
@@ -523,7 +523,7 @@
                 <h2 class="text-white mb-3" style="font-size: 2.5rem;">Virtual Tour Grand Hyatt</h2>
                 <div class="d-flex justify-content-center align-items-center">
                     <div class="" style="max-width: 220px;">
-                        <img src="./assets/Gambar HD/barcode.png" alt="Barcode Virtual Tour" class=""
+                        <img src="{{ asset('assets/Gambar HD/barcode.png')}}" alt="Barcode Virtual Tour" class=""
                             style="max-width: 200px;">
                     </div>
                 </div>
@@ -546,7 +546,7 @@
         <div class="col-lg-4 mb-5" data-aos="fade-up" data-aos-delay="200">
             <div class="card" style="box-shadow: 0 1px 6px rgba(32,33,36,.28);">
                 <div class="embed-responsive embed-responsive-16by9">
-                    <img src="./assets/images/bumQer2.jpg" alt="Video 1" style="border-radius: 10px;">
+                    <img src="{{ asset('assets/images/bumQer2.jpg')}}" alt="Video 1" style="border-radius: 10px;">
                 </div>
                 <div class="card-body" style="padding: 1rem;">
                     <h5 class="card-title" style="margin-bottom: 0px;">ABDULLAH AZWAR ANAS, M.SI.</h5>
@@ -557,7 +557,7 @@
         <div class="col-lg-4 mb-5" data-aos="fade-up" data-aos-delay="200">
             <div class="card" style="box-shadow: 0 1px 6px rgba(32,33,36,.28);">
                 <div class="embed-responsive embed-responsive-16by9">
-                    <img src="./assets/images/bumper1.jpg" alt="Video 2" style="border-radius: 10px;">
+                    <img src="{{ asset('assets/images/bumper1.jpg')}}" alt="Video 2" style="border-radius: 10px;">
                 </div>
                 <div class="card-body" style="padding: 1rem;">
                     <h5 class="card-title" style="margin-bottom: 0px;">H.E. DR.SISWO PRAMONO</h5>
@@ -568,7 +568,7 @@
         <div class="col-lg-4 mb-5" data-aos="fade-up" data-aos-delay="200">
             <div class="card" style="box-shadow: 0 1px 6px rgba(32,33,36,.28);">
                 <div class="embed-responsive embed-responsive-16by9">
-                    <img src="./assets/images/bumQer1.jpg" alt="Video 3" style="border-radius: 10px;">
+                    <img src="{{ asset('assets/images/bumQer1.jpg')}}" alt="Video 3" style="border-radius: 10px;">
                 </div>
                 <div class="card-body" style="padding: 1rem;">
                     <h5 class="card-title" style="margin-bottom: 0px;">ZULKIFLI HASAN,S.E., M.M.</h5>
@@ -639,7 +639,7 @@
             </div>
         </div>
 
-        
+
         </div>
     </div>
 </section>

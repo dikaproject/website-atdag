@@ -128,7 +128,7 @@
             <div class="col-md-4" data-aos="fade-down" data-aos-delay="250">
                 <div class="team-member image-zoom">
                     <div class="image-zoom-wrapper">
-                       
+
                         <img src="./assets/images/hotel-grand-hyatt.jpg" alt="">
                         </a>
                     </div>
@@ -170,54 +170,54 @@
             <div class="col-md-4" data-aos="fade-down" data-aos-delay="150">
                 <div class="portfolio-item image-zoom">
                     <div class="image-zoom-wrapper">
-                        <img src="./assets/images/grandhyat.png" alt="">
+                        <img src="assets/images/grandhyat.png" alt="">
                     </div>
-                    <a href="./assets/Gambar HD/grand hyatt.png" data-fancybox="gallery" class="iconbox"><i
+                    <a href="assets/Gambar HD/grand hyatt.png" data-fancybox="gallery" class="iconbox"><i
                             class="ri-search-2-line"></i></a>
                 </div>
             </div>
             <div class="col-md-4" data-aos="fade-down" data-aos-delay="150">
                 <div class="portfolio-item image-zoom">
                     <div class="image-zoom-wrapper">
-                        <img src="./assets/Gambar HD/grand hyatt 3.png" alt="">
+                        <img src="{{ asset('assets/Gambar HD/grand hyatt 3.png')}}" alt="">
                     </div>
-                    <a href="./assets/Gambar HD/grand hyatt 3.png" data-fancybox="gallery" class="iconbox"><i
+                    <a href="{{ asset('assets/Gambar HD/grand hyatt 3.png')}}" data-fancybox="gallery" class="iconbox"><i
                             class="ri-search-2-line"></i></a>
                 </div>
             </div>
             <div class="col-md-4" data-aos="fade-down" data-aos-delay="150">
                 <div class="portfolio-item image-zoom">
                     <div class="image-zoom-wrapper">
-                        <img src="./assets/Gambar HD/grand hyatt 2.png" alt="">
+                        <img src="{{ asset('assets/Gambar HD/grand hyatt 2.png')}}" alt="">
                     </div>
-                    <a href="./assets/Gambar HD/grand hyatt 2.png" data-fancybox="gallery" class="iconbox"><i
+                    <a href="{{ asset('assets/Gambar HD/grand hyatt 2.png')}}" data-fancybox="gallery" class="iconbox"><i
                             class="ri-search-2-line"></i></a>
                 </div>
             </div>
             <div class="col-md-4" data-aos="fade-down" data-aos-delay="150">
                 <div class="portfolio-item image-zoom">
                     <div class="image-zoom-wrapper">
-                        <img src="./assets/Gambar HD/grand hyatt 4.png" alt="">
+                        <img src="{{ asset('assets/Gambar HD/grand hyatt 4.png')}}" alt="">
                     </div>
-                    <a href="./assets/Gambar HD/grand hyatt 4.png" data-fancybox="gallery" class="iconbox"><i
+                    <a href="{{ asset('assets/Gambar HD/grand hyatt 4.png')}}" data-fancybox="gallery" class="iconbox"><i
                             class="ri-search-2-line"></i></a>
                 </div>
             </div>
             <div class="col-md-4" data-aos="fade-down" data-aos-delay="150">
                 <div class="portfolio-item image-zoom">
                     <div class="image-zoom-wrapper">
-                        <img src="./assets/Gambar HD/grand chancellor.png" alt="">
+                        <img src="{{ asset('assets/Gambar HD/grand chancellor.png')}}" alt="">
                     </div>
-                    <a href="./assets/Gambar HD/grand chancellor.png" data-fancybox="gallery" class="iconbox"><i
+                    <a href="{{ asset('assets/Gambar HD/grand chancellor.png')}}" data-fancybox="gallery" class="iconbox"><i
                             class="ri-search-2-line"></i></a>
                 </div>
             </div>
             <div class="col-md-4" data-aos="fade-down" data-aos-delay="150">
                 <div class="portfolio-item image-zoom">
                     <div class="image-zoom-wrapper">
-                        <img src="./assets/Gambar HD/icon-lokasi.png" alt="">
+                        <img src="{{ asset('assets/Gambar HD/icon-lokasi.png')}}" alt="">
                     </div>
-                    <a href="./assets/Gambar HD/icon-lokasi.png" data-fancybox="gallery" class="iconbox"><i
+                    <a href="{{ asset('assets/Gambar HD/icon-lokasi.png')}}" data-fancybox="gallery" class="iconbox"><i
                             class="ri-search-2-line"></i></a>
                 </div>
             </div>

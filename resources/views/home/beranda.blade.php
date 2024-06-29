@@ -57,7 +57,7 @@
                 <h1 data-aos="fade-left" class="text-uppercase text-white fw-semibold display-2 hero-title">RAKORNIS PERWADAG</h1>
                 <div class="row py-2 justify-content-center">
                     <div class="col-12 col-md-8 px-0 d-flex align-items-center justify-content-center">
-                        <img data-aos="fade-right" class="me-3 theme-shadow location-icon" src="/assets/images/icon-lokasi.png"
+                        <img data-aos="fade-right" class="me-3 theme-shadow location-icon" src="{{ asset('assets/images/icon-lokasi.png')}}"
                             alt="Lokasi">
                         <div class="text-left d-flex flex-column align-items-start">
                             <h2 data-aos="fade-right" class="h5 mb-0 text-white">Lokasi</h2>
@@ -83,7 +83,7 @@
         </div>
         <div class="row justify-content-center align-items-center">
             <div class="col-lg-6 col-12 mb-4 mb-lg-0 text-center" data-aos="fade-down" data-aos-delay="50">
-                <img src="./assets/images/mendag.jpg" alt="" class="img-fluid" style="border-radius: 50px; width: 60%; margin-bottom: 10px;">
+                <img src="{{ asset('assets/images/mendag.jpg')}}" alt="" class="img-fluid" style="border-radius: 50px; width: 60%; margin-bottom: 10px;">
             </div>
             <div data-aos="fade-down" data-aos-delay="150" class="col-lg-5 col-12 text-center text-lg-start">
                 <h1 style="margin-bottom: 10px;">Zulkifli Hasan, S.E., M.M.</h1>
@@ -107,14 +107,14 @@
             <div class="col-lg-5 mb-4 mb-lg-0 text-center text-lg-start" data-aos="fade-down" data-aos-delay="150">
                 <h1 style="font-size: 3rem;">Download Buku Panduan</h1>
                 <p class="mt-3 mb-4" style="font-size: 1rem;">
-                  
+
                 </p>
             </div>
             <div class="col-lg-6 d-flex justify-content-center justify-content-lg-end" data-aos="fade-down" data-aos-delay="50">
                 <div class="border-box p-3" style="border: 4px solid #ddd; border-radius: 20px; box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1); width: 70%; margin: 20px 0;">
-                    <img src="./assets/images/guidebook.jpeg" alt="" style="border-radius: 20px; width: 100%; margin-bottom: 20px;">
+                    <img src="{{ asset('assets/images/guidebook.jpeg')}}" alt="" style="border-radius: 20px; width: 100%; margin-bottom: 20px;">
                     <div class="text-center">
-                        <a href="./assets/download/Buku Panduan-2.pdf" download class="btn btn-primary" style="border-radius: 20px; box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);">Download Now</a>
+                        <a href="{{ asset('assets/download/Buku Panduan-2.pdf')}}" download class="btn btn-primary" style="border-radius: 20px; box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);">Download Now</a>
                     </div>
                 </div>
             </div>
@@ -178,7 +178,7 @@
                 <div class="team-member image-zoom">
                     <div class="image-zoom-wrapper">
                         <a href="" target="_blank">
-                            <img src="./assets/images/1.png" alt="">
+                            <img src="{{ asset('assets/images/1.png')}}" alt="">
                         </a>
                     </div>
                     <div class="team-member-content">
@@ -190,7 +190,7 @@
                 <div class="team-member image-zoom">
                     <div class="image-zoom-wrapper">
                         <a href="" target="_blank">
-                            <img src="./assets/images/2.png" alt="">
+                            <img src="{{ asset('assets/images/2.png')}}" alt="">
                         </a>
                     </div>
                     <div class="team-member-content">
@@ -203,7 +203,7 @@
                     <div class="image-zoom-wrapper">
                         <a href=""
                             target="_blank">
-                            <img src="./assets/images/3.png" alt="">
+                            <img src="{{ asset('assets/images/3.png')}}" alt="">
                         </a>
                     </div>
                     <div class="team-member-content">
@@ -217,7 +217,7 @@
                 <div class="team-member image-zoom">
                     <div class="image-zoom-wrapper">
                         <a href="" target="_blank">
-                            <img src="./assets/images/4.png" alt="">
+                            <img src="{{ asset('assets/images/4.png')}}" alt="">
                         </a>
                     </div>
                     <div class="team-member-content">
@@ -230,7 +230,7 @@
                     <div class="image-zoom-wrapper">
                         <a href=""
                             target="_blank">
-                            <img src="./assets/images/5.png" alt="">
+                            <img src="{{ asset('assets/images/5.png')}}" alt="">
                         </a>
                     </div>
                     <div class="team-member-content">
@@ -243,7 +243,7 @@
                     <div class="image-zoom-wrapper">
                         <a href=""
                             target="_blank">
-                            <img src="./assets/images/6.png" alt="">
+                            <img src="{{ asset('assets/images/6.png')}}" alt="">
                         </a>
                     </div>
                     <div class="team-member-content">
@@ -256,7 +256,7 @@
                     <div class="image-zoom-wrapper">
                         <a href=""
                             target="_blank">
-                            <img src="./assets/images/7.png" alt="">
+                            <img src="{{ asset('assets/images/7.png')}}" alt="">
                         </a>
                     </div>
                     <div class="team-member-content">
@@ -269,7 +269,7 @@
                     <div class="image-zoom-wrapper">
                         <a href=""
                             target="_blank">
-                            <img src="./assets/images/8.png" alt="">
+                            <img src="{{ asset('assets/images/8.png')}}" alt="">
                         </a>
                     </div>
                     <div class="team-member-content">
