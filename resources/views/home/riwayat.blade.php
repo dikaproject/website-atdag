@@ -152,7 +152,7 @@
             </div>
         </div>
 
-        <form action="{{ route('komentar.store') }}" method="POST">
+        {{-- <form action="{{ route('komentar.store') }}" method="POST">
             @csrf
             <div>
                 <label for="nama">Nama:</label>
@@ -163,7 +163,7 @@
                 <textarea id="komentar" name="komentar" required></textarea>
             </div>
             <button type="submit">Kirim Komentar</button>
-        </form>
+        </form> --}}
 
 
         <!--End row-->
