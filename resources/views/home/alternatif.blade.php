@@ -98,45 +98,84 @@
     </div>
 </section>
 
-<!-- COUNTER -->
-<section id="counter" class="section-padding">
-    <div class="container text-center">
-        <div class="mb-5 pb-5 text-center"> <span class="icon-title icon-bg-light rounded-circle  mb-3">
-                <img class="icon-title-inner" src="//raker.kemendag.go.id/assets/svg/refresh.svg" alt=""
-                    style="width: 200px; height: 200px;">
-            </span>
-            <h2 class="text-white h1">Hitung Mundur Pembukaan Acara</h2>
-            <p class="w-md-70 mx-auto text-white mb-0 lead">
-                11 Juni 2024 - 08:00 AM </p>
+<section id="sekitar" class="section-padding border-top">
+    <div class="container">
+        <div class="row">
         </div>
-        <div class="row g-4">
-            <div class="col-lg-3 col-sm-6" data-aos="fade-down" data-aos-delay="150">
-                <div class="countdown-item">
-                    <h1 class="text-white display-4" id="days"></h1>
-                    <h4 class="text-uppercase mb-0 text-white mt-3">Hari</h4>
+        <div class="row g-4 text-center">
+            <div class="col-md-4" data-aos="fade-down" data-aos-delay="150">
+                <div class="team-member image-zoom">
+                    <div class="image-zoom-wrapper">
+                        <a href="" target="_blank">
+                            <img src="./assets/images/makanan-menu.jpeg" alt="">
+                        </a>
+                    </div>
+                    <div class="team-member-content">
+                        <h4 class="text-white">Makanan Khas Indonesia</h4>
+                    </div>
                 </div>
             </div>
-            <div class="col-lg-3 col-sm-6" data-aos="fade-down" data-aos-delay="250">
-                <div class="countdown-item">
-                    <h1 class="text-white display-4" id="hours"></h1>
-                    <h4 class="text-uppercase mb-0 text-white mt-3">Jam</h4>
+            <div class="col-md-4" data-aos="fade-down" data-aos-delay="250">
+                <div class="team-member image-zoom">
+                    <div class="image-zoom-wrapper">
+                        <a href="l" target="_blank">
+                            <img src="./assets/Gambar HD/makanan1.png" alt="" style="border-radius: 12px">
+                        </a>
+                    </div>
+                    <div class="team-member-content">
+                        <h4 class="text-white">Gulai Ayam</h4>
+                    </div>
                 </div>
             </div>
-            <div class="col-lg-3 col-sm-6" data-aos="fade-down" data-aos-delay="350">
-                <div class="countdown-item">
-                    <h1 class="text-white display-4" id="minutes"></h1>
-                    <h4 class="text-uppercase mb-0 text-white mt-3">Menit</h4>
+            <div class="col-md-4" data-aos="fade-down" data-aos-delay="350">
+                <div class="team-member image-zoom">
+                    <div class="image-zoom-wrapper">
+                        <a href="" target="_blank">
+                            <img src="./assets/Gambar HD/makanan2.png" alt="" style="border-radius: 12px">
+                        </a>
+                    </div>
+                    <div class="team-member-content">
+                        <h4 class="text-white">Telur Balado</h4>
+                    </div>
                 </div>
             </div>
-            <div class="col-lg-3 col-sm-6" data-aos="fade-down" data-aos-delay="450">
-                <div class="countdown-item">
-                    <h1 class="text-white display-4" id="seconds"></h1>
-                    <h4 class="text-uppercase mb-0 text-white mt-3">Detik</h4>
+            <div class="col-md-6" data-aos="fade-down" data-aos-delay="150">
+                <div class="team-member image-zoom">
+                    <div class="image-zoom-wrapper">
+                        <a href="" target="_blank">
+                            <img src="./assets/images/karedok.jpeg" alt="">
+                        </a>
+                    </div>
+                    <div class="team-member-content">
+                        <h4 class="text-white">Karedok</h4>
+                    </div>
+                </div>
+            </div>
+            <div class="col-md-6" data-aos="fade-down" data-aos-delay="250">
+                <div class="team-member image-zoom">
+                    <div class="image-zoom-wrapper">
+                        <a href=""
+                            target="_blank">
+                            <img src="./assets/images/rendang.jpeg" alt="">
+                        </a>
+                    </div>
+                    <div class="team-member-content">
+                        <h4 class="text-white">Rendang</h4>
+                    </div>
                 </div>
             </div>
         </div>
     </div>
 </section>
+<style>
+    .team-member img {
+    max-width: 100%;
+    height: auto;
+    display: block;
+    border-radius: 12px; /* Untuk gambar yang memerlukan border-radius */
+}
+</style>
+
 
 <!-- Alternatif Kunjungan -->
 <section id="alternatif" class="section-padding bg-light">
@@ -421,43 +460,41 @@
                 </div>
             </div>
         </div>
-        <div class="row g-4 text-center ">
-            <div class="col-md-4" data-aos="fade-down" data-aos-delay="150">
-                <div class="team-member image-zoom">
-                    <div class="image-zoom-wrapper">
-                        <img src="./assets/Gambar HD/tari singgeh3.png" alt="">
+        <div class="row justify-content-center">
+            <div class="col-md-8" data-aos="fade-down" data-aos-delay="250">
+                <div class="team-member-content text-center">
+                    <h4 class="text-white">Featured Video</h4>
+                    <div class="video-wrapper">
+                        <iframe width="560" height="315" src="https://www.youtube.com/embed/7wdJfbmbI_I?si=Xb02SkbgHPFFQoj_" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
                     </div>
-                    <div class="team-member-content">
-                        <h4 class="text-white">Tari Singgeh</h4>
-                        <p class="mb-0 text-white">Dari Melindo Dance Group</p>
-                    </div>
-                </div>
-            </div>
-            <div class="col-md-4" data-aos="fade-down" data-aos-delay="250">
-                <div class="team-member image-zoom">
-                    <div class="image-zoom-wrapper">
-                        <img src="./assets/Gambar HD/jawa pitu.png" alt="">
-                    </div>
-                    <div class="team-member-content">
-                        <h4 class="text-white">Jawa Pitu Band</h4>
-                        <p class="mb-0 text-white">Group Band</p>
-                    </div>
-                </div>
-            </div>
-            <div class="col-md-4" data-aos="fade-down" data-aos-delay="350">
-                <div class="team-member image-zoom">
-                    <div class="image-zoom-wrapper">
-                        <img src="./assets/Gambar HD/aneka ria.png" alt="">
-                    </div>
-                    <div class="team-member-content">
-                        <h4 class="text-white">Aneka Ria Melbourne</h4>
-                        <p class="mb-0 text-white">Komunitas orang Indonesia di Melbourne</p>
-                    </div>
+                    <p class="mb-0 text-white">Watch our special performance!</p>
                 </div>
             </div>
         </div>
     </div>
 </section>
+
+<style>
+.video-wrapper {
+    position: relative;
+    padding-bottom: 56.25%; /* 16:9 aspect ratio */
+    height: 0;
+    overflow: hidden;
+    width: 100%;
+    background: #000;
+}
+
+.video-wrapper iframe {
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+}
+</style>
+
+
+
 
 <!-- Lokasi -->
 <section class="section-padding bg-light" id="lokasi"
@@ -602,52 +639,7 @@
             </div>
         </div>
 
-        <div class="row mt-5">
-            <div class="col-md-4" data-aos="fade-down" data-aos-delay="150">
-                <div class="team-member image-zoom">
-                    <div class="image-zoom-wrapper"> <iframe width="100%" height="215"
-                            src="https://www.youtube.com/embed/J7L_iOW8Iys?si=8AYDm-uLe7EG08ZW"
-                            title="YouTube video player" frameborder="0"
-                            allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
-                            referrerpolicy="strict-origin-when-cross-origin" allowfullscreen
-                            style="border-radius: 10px;"></iframe>
-                    </div>
-                    <h5 class="mt-2">Video Title 4</h5>
-                    <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Sit sequi quos magni!</p> <a
-                        href="https://youtu.be/J7L_iOW8Iys?si=RhCw_j604k3l1ZeG" target="_blank">Watch on
-                        YouTube</a>
-                </div>
-            </div>
-            <div class="col-md-4" data-aos="fade-down" data-aos-delay="250">
-                <div class="team-member image-zoom">
-                    <div class="image-zoom-wrapper"> <iframe width="100%" height="215"
-                            src="https://www.youtube.com/embed/J7L_iOW8Iys?si=8AYDm-uLe7EG08ZW"
-                            title="YouTube video player" frameborder="0"
-                            allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
-                            referrerpolicy="strict-origin-when-cross-origin" allowfullscreen
-                            style="border-radius: 10px;"></iframe>
-                    </div>
-                    <h5 class="mt-2">Video Title 5</h5>
-                    <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Sit sequi quos magni!</p> <a
-                        href="https://youtu.be/J7L_iOW8Iys?si=RhCw_j604k3l1ZeG" target="_blank">Watch on
-                        YouTube</a>
-                </div>
-            </div>
-            <div class="col-md-4" data-aos="fade-down" data-aos-delay="350">
-                <div class="team-member image-zoom">
-                    <div class="image-zoom-wrapper"> <iframe width="100%" height="215"
-                            src="https://www.youtube.com/embed/J7L_iOW8Iys?si=8AYDm-uLe7EG08ZW"
-                            title="YouTube video player" frameborder="0"
-                            allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
-                            referrerpolicy="strict-origin-when-cross-origin" allowfullscreen
-                            style="border-radius: 10px;"></iframe>
-                    </div>
-                    <h5 class="mt-2">Video Title 6</h5>
-                    <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Sit sequi quos magni!</p> <a
-                        href="https://youtu.be/J7L_iOW8Iys?si=RhCw_j604k3l1ZeG" target="_blank">Watch on
-                        YouTube</a>
-                </div>
-            </div>
+        
         </div>
     </div>
 </section>

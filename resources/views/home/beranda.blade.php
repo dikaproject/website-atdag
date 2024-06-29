@@ -70,60 +70,32 @@
     </div>
 </section>
 
-
 <section id="about" class="section-padding">
     <div class="container">
         <div class="row">
             <div class="col-12 text-center" data-aos="fade-down" data-aos-delay="50">
                 <div class="section-title">
-                    <h1 class="display-4 fw-semibold">Pembawa Acara (MC)</h1>
+                    <h1 class="display-4 fw-semibold">Menteri Perdagangan</h1>
                     <div class="line"></div>
-                    <p>Berikut adalah Pembawa Acara pada <span class="bold">RAKORNIS PERWADAG</span> Tahun 2024.</p>
+                    <p>Berikut adalah Menteri Perdagangan Republik Indonesia <span class="bold"></span></p>
                 </div>
             </div>
         </div>
-        <div class="row justify-content-between align-items-center">
-            <div class="col-lg-6" data-aos="fade-down" data-aos-delay="50">
-                <img src="./assets/images/MC.png" alt="" style="border-radius: 50px;">
+        <div class="row justify-content-center align-items-center">
+            <div class="col-lg-6 col-12 mb-4 mb-lg-0 text-center" data-aos="fade-down" data-aos-delay="50">
+                <img src="./assets/images/mendag.jpg" alt="" class="img-fluid" style="border-radius: 50px; width: 60%; margin-bottom: 10px;">
             </div>
-            <div data-aos="fade-down" data-aos-delay="150" class="col-lg-5">
-                <h1 style="font-size: 3rem;">Rivi Satrianegara</h1>
-                <p class="mt-3 mb-4">Rivi Satrianegara adalah seorang jurnalis yang berbasis di Daerah Khusus
-                    Ibukota Jakarta, Indonesia.</p>
-                <div class="d-flex pt-4 mb-3">
-                    <div class="iconbox me-4">
-                        <i class="ri-mail-send-fill"></i>
-                    </div>
-                    <div>
-                        <h5>Pengalaman</h5>
-                        <p>MA Candidate Communication and Media Studies at Monash University I
-                            LPDP Awardee
-                        </p>
-                    </div>
-                </div>
-                <div class="d-flex mb-3">
-                    <div class="iconbox me-4">
-                        <i class="ri-user-5-fill"></i>
-                    </div>
-                    <div>
-                        <h5>Pengalaman</h5>
-                        <p>Journalist SCTV Sep 2019 - Sep 2022</p>
-                    </div>
-                </div>
-                <div class="d-flex">
-                    <div class="iconbox me-4">
-                        <i class="ri-rocket-2-fill"></i>
-                    </div>
-                    <div>
-                        <h5>Pengalaman</h5>
-                        <p>Journalist CNBC Indonesia Nov 2017 -
-                            Agu 2019</p>
-                    </div>
-                </div>
+            <div data-aos="fade-down" data-aos-delay="150" class="col-lg-5 col-12 text-center text-lg-start">
+                <h1 style="margin-bottom: 10px;">Zulkifli Hasan, S.E., M.M.</h1>
+                <p class="mt-3 mb-4" style="font-size: 1rem;">DR. (H.C). Zulkifli Hasan, S.E., M.M. yang akrab disapa Bang Zul dilantik sebagai Menteri Perdagangan Republik Indonesia pada 15 Juni 2022 oleh Presiden Joko Widodo. Sebelum dilantik, ia menjabat sebagai Wakil Ketua MPR periode 2019 hingga 2022. Sebelumnya, ia juga menjabat sebagai Ketua MPR periode 2014 hingga 2019.
+                    Perwadag merupakan ujung tombak promosi produk Indonesia di luar negeri, adanya Rakornis Perwadag ini saya harap dapat menjadi ajang penguatan strategi perdagangan dan menjadi upaya peningkatan ekspor Indonesia di masa mendatang.</p>
             </div>
         </div>
     </div>
 </section>
+
+
+
 <section id="about" class="section-padding" style="padding: 60px 0;">
     <div class="container">
         <div class="row">
@@ -131,14 +103,14 @@
                 <!-- Content removed as per the provided code -->
             </div>
         </div>
-        <div class="row justify-content-between align-items-center">
-            <div class="col-lg-5 mb-4 mb-lg-0" data-aos="fade-down" data-aos-delay="150">
+        <div class="row justify-content-center align-items-center">
+            <div class="col-lg-5 mb-4 mb-lg-0 text-center text-lg-start" data-aos="fade-down" data-aos-delay="150">
                 <h1 style="font-size: 3rem;">Download Buku Panduan</h1>
-                <p class="mt-3 mb-4" style="font-size: 1rem">
-                    Rakornis Perwadag adalah sebuah forum koordinasi teknis yang bertujuan untuk mendiskusikan strategi dan langkah-langkah terkait penandatanganan Perjanjian Kinerja Perwakilan Perdagangan. Tema yang diangkat untuk Rakornis Perwadag tahun 2024 adalah "Akselerasi Kinerja Perwakilan Perdagangan di Luar Negeri untuk Meningkatkan Ekspor Menuju Indonesia Emas". Dalam rangka mencapai visi Indonesia Emas, fokus utama adalah pada peningkatan efektivitas dan efisiensi kinerja perwakilan perdagangan Indonesia di mancanegara.
+                <p class="mt-3 mb-4" style="font-size: 1rem;">
+                  
                 </p>
             </div>
-            <div class="col-lg-6 d-flex justify-content-lg-end" data-aos="fade-down" data-aos-delay="50">
+            <div class="col-lg-6 d-flex justify-content-center justify-content-lg-end" data-aos="fade-down" data-aos-delay="50">
                 <div class="border-box p-3" style="border: 4px solid #ddd; border-radius: 20px; box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1); width: 70%; margin: 20px 0;">
                     <img src="./assets/images/guidebook.jpeg" alt="" style="border-radius: 20px; width: 100%; margin-bottom: 20px;">
                     <div class="text-center">
@@ -149,7 +121,48 @@
         </div>
     </div>
 </section>
-<section id="galeri" class="section-padding border-top">
+
+<!-- COUNTER -->
+<section id="counter" class="section-padding">
+    <div class="container text-center">
+        <div class="mb-5 pb-5 text-center"> <span class="icon-title icon-bg-light rounded-circle  mb-3">
+                <img class="icon-title-inner" src="//raker.kemendag.go.id/assets/svg/refresh.svg" alt=""
+                    style="width: 200px; height: 200px;">
+            </span>
+            <h2 class="text-white h1">Hitung Mundur Pembukaan Acara</h2>
+            <p class="w-md-70 mx-auto text-white mb-0 lead">
+                11 Juni 2024 - 08:00 AM </p>
+        </div>
+        <div class="row g-4">
+            <div class="col-lg-3 col-sm-6" data-aos="fade-down" data-aos-delay="150">
+                <div class="countdown-item">
+                    <h1 class="text-white display-4" id="days"></h1>
+                    <h4 class="text-uppercase mb-0 text-white mt-3">Hari</h4>
+                </div>
+            </div>
+            <div class="col-lg-3 col-sm-6" data-aos="fade-down" data-aos-delay="250">
+                <div class="countdown-item">
+                    <h1 class="text-white display-4" id="hours"></h1>
+                    <h4 class="text-uppercase mb-0 text-white mt-3">Jam</h4>
+                </div>
+            </div>
+            <div class="col-lg-3 col-sm-6" data-aos="fade-down" data-aos-delay="350">
+                <div class="countdown-item">
+                    <h1 class="text-white display-4" id="minutes"></h1>
+                    <h4 class="text-uppercase mb-0 text-white mt-3">Menit</h4>
+                </div>
+            </div>
+            <div class="col-lg-3 col-sm-6" data-aos="fade-down" data-aos-delay="450">
+                <div class="countdown-item">
+                    <h1 class="text-white display-4" id="seconds"></h1>
+                    <h4 class="text-uppercase mb-0 text-white mt-3">Detik</h4>
+                </div>
+            </div>
+        </div>
+    </div>
+</section>
+
+<section id="sekitar" class="section-padding border-top">
     <div class="container">
         <div class="row">
             <div class="col-12 text-center" data-aos="fade-down" data-aos-delay="150">
@@ -160,53 +173,108 @@
                 </div>
             </div>
         </div>
-        <div class="row g-4">
+        <div class="row g-4 text-center ">
             <div class="col-md-4" data-aos="fade-down" data-aos-delay="150">
-                <div class="portfolio-item image-zoom">
+                <div class="team-member image-zoom">
                     <div class="image-zoom-wrapper">
-                        <img src="./assets/images/hotel-grand-hyatt.jpg" alt="">
+                        <a href="" target="_blank">
+                            <img src="./assets/images/1.png" alt="">
+                        </a>
                     </div>
-                    <a href="./assets/Gambar HD/grand hyatt.png" data-fancybox="gallery" class="iconbox"><i
-                            class="ri-search-2-line"></i></a>
-                </div>
-                <div class="portfolio-item image-zoom mt-4">
-                    <div class="image-zoom-wrapper">
-                        <img src="./assets/Gambar HD/grand hyatt 3.png" alt="">
+                    <div class="team-member-content">
+                        <h4 class="text-white">Free Tram Zone</h4>
                     </div>
-                    <a href="./assets/Gambar HD/grand hyatt 3.png" data-fancybox="gallery" class="iconbox"><i
-                            class="ri-search-2-line"></i></a>
                 </div>
             </div>
             <div class="col-md-4" data-aos="fade-down" data-aos-delay="250">
-                <div class="portfolio-item image-zoom">
+                <div class="team-member image-zoom">
                     <div class="image-zoom-wrapper">
-                        <img src="./assets/Gambar HD/grand hyatt 2.png" alt="">
+                        <a href="" target="_blank">
+                            <img src="./assets/images/2.png" alt="">
+                        </a>
                     </div>
-                    <a href="./assets/Gambar HD/grand hyatt 2.png" data-fancybox="gallery" class="iconbox"><i
-                            class="ri-search-2-line"></i></a>
-                </div>
-                <div class="portfolio-item image-zoom mt-4">
-                    <div class="image-zoom-wrapper">
-                        <img src="./assets/Gambar HD/grand hyatt 4.png " alt="">
+                    <div class="team-member-content">
+                        <h4 class="text-white">Layout Ruangan</h4>
                     </div>
-                    <a href="./assets/Gambar HD/grand hyatt 4.png" data-fancybox="gallery" class="iconbox"><i
-                            class="ri-search-2-line"></i></a>
                 </div>
             </div>
             <div class="col-md-4" data-aos="fade-down" data-aos-delay="350">
-                <div class="portfolio-item image-zoom">
+                <div class="team-member image-zoom">
                     <div class="image-zoom-wrapper">
-                        <img src="./assets/Gambar HD/grand chancellor.png" alt="">
+                        <a href=""
+                            target="_blank">
+                            <img src="./assets/images/3.png" alt="">
+                        </a>
                     </div>
-                    <a href="./assets/Gambar HD/grand chancellor.png" data-fancybox="gallery" class="iconbox"><i
-                            class="ri-search-2-line"></i></a>
+                    <div class="team-member-content">
+                        <h4 class="text-white">Photo Wall</h4>
+                    </div>
                 </div>
-                <div class="portfolio-item image-zoom mt-4">
+            </div>
+        </div>
+        <div class="row g-4 text-center pt-5">
+            <div class="col-md-4" data-aos="fade-down" data-aos-delay="150">
+                <div class="team-member image-zoom">
                     <div class="image-zoom-wrapper">
-                        <img src="./assets/Gambar HD/icon-lokasi.png" alt="">
+                        <a href="" target="_blank">
+                            <img src="./assets/images/4.png" alt="">
+                        </a>
                     </div>
-                    <a href="./assets/Gambar HD/icon-lokasi.png" data-fancybox="gallery" class="iconbox"><i
-                            class="ri-search-2-line"></i></a>
+                    <div class="team-member-content">
+                        <h4 class="text-white">Mini Expo</h4>
+                    </div>
+                </div>
+            </div>
+            <div class="col-md-4" data-aos="fade-down" data-aos-delay="250">
+                <div class="team-member image-zoom">
+                    <div class="image-zoom-wrapper">
+                        <a href=""
+                            target="_blank">
+                            <img src="./assets/images/5.png" alt="">
+                        </a>
+                    </div>
+                    <div class="team-member-content">
+                        <h4 class="text-white">Layout Sketsa </h4>
+                    </div>
+                </div>
+            </div>
+            <div class="col-md-4" data-aos="fade-down" data-aos-delay="350">
+                <div class="team-member image-zoom">
+                    <div class="image-zoom-wrapper">
+                        <a href=""
+                            target="_blank">
+                            <img src="./assets/images/6.png" alt="">
+                        </a>
+                    </div>
+                    <div class="team-member-content">
+                        <h4 class="text-white">Savoy Ballroom</h4>
+                    </div>
+                </div>
+            </div>
+            <div class="col-md-6" data-aos="fade-down" data-aos-delay="350">
+                <div class="team-member image-zoom">
+                    <div class="image-zoom-wrapper">
+                        <a href=""
+                            target="_blank">
+                            <img src="./assets/images/7.png" alt="">
+                        </a>
+                    </div>
+                    <div class="team-member-content">
+                        <h4 class="text-white">Foyer</h4>
+                    </div>
+                </div>
+            </div>
+            <div class="col-md-6" data-aos="fade-down" data-aos-delay="350">
+                <div class="team-member image-zoom">
+                    <div class="image-zoom-wrapper">
+                        <a href=""
+                            target="_blank">
+                            <img src="./assets/images/8.png" alt="">
+                        </a>
+                    </div>
+                    <div class="team-member-content">
+                        <h4 class="text-white">Peta</h4>
+                    </div>
                 </div>
             </div>
         </div>
