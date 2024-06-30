@@ -170,7 +170,7 @@
             <div class="col-md-4" data-aos="fade-down" data-aos-delay="150">
                 <div class="portfolio-item image-zoom">
                     <div class="image-zoom-wrapper">
-                        <img src="assets/images/grandhyat.png" alt="">
+                        <img src="{{asset('assets/images/grandhyat.png')}}" alt="">
                     </div>
                     <a href="assets/Gambar HD/grand hyatt.png" data-fancybox="gallery" class="iconbox"><i
                             class="ri-search-2-line"></i></a>

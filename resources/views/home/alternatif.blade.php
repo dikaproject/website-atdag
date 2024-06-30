@@ -107,7 +107,7 @@
                 <div class="team-member image-zoom">
                     <div class="image-zoom-wrapper">
                         <a href="" target="_blank">
-                            <img src="{{ asset('assets/images/makanan-menu.jpeg')}}" alt="">
+                            <img src="./assets/images/makanan-menu.jpeg" alt="">
                         </a>
                     </div>
                     <div class="team-member-content">
@@ -119,7 +119,7 @@
                 <div class="team-member image-zoom">
                     <div class="image-zoom-wrapper">
                         <a href="l" target="_blank">
-                            <img src="{{ asset('assets/Gambar HD/makanan1.png')}}" alt="" style="border-radius: 12px">
+                            <img src="./assets/Gambar HD/makanan1.png" alt="" style="border-radius: 12px">
                         </a>
                     </div>
                     <div class="team-member-content">
@@ -131,7 +131,7 @@
                 <div class="team-member image-zoom">
                     <div class="image-zoom-wrapper">
                         <a href="" target="_blank">
-                            <img src="{{ asset('assets/Gambar HD/makanan2.png')}}" alt="" style="border-radius: 12px">
+                            <img src="./assets/Gambar HD/makanan2.png" alt="" style="border-radius: 12px">
                         </a>
                     </div>
                     <div class="team-member-content">
@@ -143,7 +143,7 @@
                 <div class="team-member image-zoom">
                     <div class="image-zoom-wrapper">
                         <a href="" target="_blank">
-                            <img src="{{ asset('assets/images/karedok.jpeg')}}" alt="">
+                            <img src="./assets/images/karedok.jpeg" alt="">
                         </a>
                     </div>
                     <div class="team-member-content">
@@ -156,7 +156,7 @@
                     <div class="image-zoom-wrapper">
                         <a href=""
                             target="_blank">
-                            <img src="{{ asset('assets/images/rendang.jpeg')}}" alt="">
+                            <img src="./assets/images/rendang.jpeg" alt="">
                         </a>
                     </div>
                     <div class="team-member-content">
@@ -460,39 +460,47 @@
                 </div>
             </div>
         </div>
-        <div class="row justify-content-center">
-            <div class="col-md-8" data-aos="fade-down" data-aos-delay="250">
-                <div class="team-member-content text-center">
-                    <h4 class="text-white">Featured Video</h4>
-                    <div class="video-wrapper">
-                        <iframe width="560" height="315" src="https://www.youtube.com/embed/7wdJfbmbI_I?si=Xb02SkbgHPFFQoj_" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+        <section id="youtube" class="section-padding">
+            <div class="container">
+                <div class="row justify-content-center">
+                    <div class="col-md-8" data-aos="fade-down" data-aos-delay="150">
+                        <div class="team-member image-zoom">
+                            <div class="image-zoom-wrapper" style="padding-top: 56.25%;">
+                                <iframe style="border-radius: 12px" width="560" height="315" src="https://www.youtube.com/embed/pLppOUpkksA?si=jnk6LozUIwb4-bi8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+                            </div>
+                            <h5 class="mt-3">Sajojo by The Jawa Pitu Band</h5>
+                            <p>The Jawa Pitu Band's funky version of the of the famous West Papuan folk song.  Performed in Feb 2024 at Open Studio in Northcote, Melbourne, Australia
+                                </p>
+                            <a href="https://youtu.be/pLppOUpkksA?si=XxbtnW046Z1Gd77V" target="_blank">Watch on YouTube</a>
+                        </div>
                     </div>
-                    <p class="mb-0 text-white">Watch our special performance!</p>
                 </div>
             </div>
-        </div>
+        </section>
     </div>
 </section>
 
 <style>
-.video-wrapper {
-    position: relative;
-    padding-bottom: 56.25%; /* 16:9 aspect ratio */
-    height: 0;
-    overflow: hidden;
-    width: 100%;
-    background: #000;
-}
-
-.video-wrapper iframe {
-    position: absolute;
-    top: 0;
-    left: 0;
-    width: 100%;
-    height: 100%;
-}
+    .section-padding {
+        padding: 80px 0;
+    }
+    .team-member {
+        text-align: center;
+    }
+    .image-zoom-wrapper {
+        position: relative;
+        overflow: hidden;
+        width: 100%;
+    }
+    .image-zoom-wrapper iframe {
+        position: absolute;
+        top: 0;
+        left: 0;
+        width: 100%;
+        height: 100%;
+        border: none;
+    }
 </style>
-
 
 
 
@@ -594,7 +602,7 @@
         <div class="row">
             <div class="col-md-4" data-aos="fade-down" data-aos-delay="150">
                 <div class="team-member image-zoom">
-                    <div class="image-zoom-wrapper"> <iframe width="100%" height="215"
+                    <div class="image-zoom-wrapper" style="padding-top: 56.25%;"> <iframe width="100%" height="215"
                             src="https://www.youtube.com/embed/J7L_iOW8Iys?si=8AYDm-uLe7EG08ZW"
                             title="YouTube video player" frameborder="0"
                             allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
@@ -609,7 +617,7 @@
             </div>
             <div class="col-md-4" data-aos="fade-down" data-aos-delay="250">
                 <div class="team-member image-zoom">
-                    <div class="image-zoom-wrapper"> <iframe width="100%" height="215"
+                    <div class="image-zoom-wrapper"  style="padding-top: 56.25%;"> <iframe width="100%" height="215"
                             src="https://www.youtube.com/embed/J7L_iOW8Iys?si=8AYDm-uLe7EG08ZW"
                             title="YouTube video player" frameborder="0"
                             allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
@@ -624,7 +632,7 @@
             </div>
             <div class="col-md-4" data-aos="fade-down" data-aos-delay="350">
                 <div class="team-member image-zoom">
-                    <div class="image-zoom-wrapper"> <iframe width="100%" height="215"
+                    <div class="image-zoom-wrapper"  style="padding-top: 56.25%;"> <iframe width="100%" height="215"
                             src="https://www.youtube.com/embed/J7L_iOW8Iys?si=8AYDm-uLe7EG08ZW"
                             title="YouTube video player" frameborder="0"
                             allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"

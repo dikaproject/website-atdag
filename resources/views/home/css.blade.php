@@ -6,3 +6,4 @@
     <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/@fancyapps/ui@4.0/dist/fancybox.css">
     <link rel="stylesheet" href="https://unpkg.com/aos@next/dist/aos.css" />
     <link rel="stylesheet" href="./assets/css/landing.css">
+    <link rel="icon" type="image/x-icon" href="{{asset('assets/images/favicon.png')}}">

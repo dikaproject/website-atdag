@@ -77,7 +77,6 @@
                 <div class="section-title">
                     <h1 class="display-4 fw-semibold">Menteri Perdagangan</h1>
                     <div class="line"></div>
-                    <p>Berikut adalah Menteri Perdagangan Republik Indonesia <span class="bold"></span></p>
                 </div>
             </div>
         </div>
@@ -86,14 +85,34 @@
                 <img src="{{ asset('assets/images/mendag.jpg')}}" alt="" class="img-fluid" style="border-radius: 50px; width: 60%; margin-bottom: 10px;">
             </div>
             <div data-aos="fade-down" data-aos-delay="150" class="col-lg-5 col-12 text-center text-lg-start">
-                <h1 style="margin-bottom: 10px;">Zulkifli Hasan, S.E., M.M.</h1>
-                <p class="mt-3 mb-4" style="font-size: 1rem;">DR. (H.C). Zulkifli Hasan, S.E., M.M. yang akrab disapa Bang Zul dilantik sebagai Menteri Perdagangan Republik Indonesia pada 15 Juni 2022 oleh Presiden Joko Widodo. Sebelum dilantik, ia menjabat sebagai Wakil Ketua MPR periode 2019 hingga 2022. Sebelumnya, ia juga menjabat sebagai Ketua MPR periode 2014 hingga 2019.
-                    Perwadag merupakan ujung tombak promosi produk Indonesia di luar negeri, adanya Rakornis Perwadag ini saya harap dapat menjadi ajang penguatan strategi perdagangan dan menjadi upaya peningkatan ekspor Indonesia di masa mendatang.</p>
+                <h1 style="margin-bottom: 10px;">DR. (H.C). Zulkifli Hasan, S.E., M.M.</h1>
+                <p class="mt-3 mb-4" style="font-size: 1rem;"> <i>Perwadag merupakan ujung tombak promosi produk Indonesia di luar negeri, adanya Rakornis Perwadag ini saya harap dapat menjadi ajang penguatan strategi perdagangan dan menjadi upaya peningkatan ekspor Indonesia di masa mendatang" </i> "- Mendag Zulkifli Hasan</p>
             </div>
         </div>
     </div>
 </section>
 
+<section id="about" class="section-padding">
+    <div class="container">
+        <div class="row">
+            <div class="col-12 text-center" data-aos="fade-down" data-aos-delay="50">
+                <div class="section-title">
+                    <h1 class="display-4 fw-semibold">Sekretariat Jendral</h1>
+                    <div class="line"></div>
+                </div>
+            </div>
+        </div>
+        <div class="row justify-content-center align-items-center">
+            <div class="col-lg-6 col-12 mb-4 mb-lg-0 text-center" data-aos="fade-down" data-aos-delay="50">
+                <img src="{{ asset('assets/images/Sekjensuhanto.png')}}" alt="" class="img-fluid" style="border-radius: 50px; width: 75%; margin-bottom: 10px;">
+            </div>
+            <div data-aos="fade-down" data-aos-delay="150" class="col-lg-5 col-12 text-center text-lg-start">
+                <h1 style="margin-bottom: 10px;">Drs. Suhanto, M.M.</h1>
+                <p class="mt-3 mb-4" style="font-size: 1rem;"> <i>Rakornis Perwadag merupakan salah satu upaya Kemendag dalam meningkatkan kompetensi ekspor para wakil kami yang tersebar di berbagai negara, dimana nantinya para Perwadag akan makin kuat dalam mendampingi pelaku usaha menembus pasar ekspor." </i> "- Sekjen Suhanto</p>
+            </div>
+        </div>
+    </div>
+</section>
 
 
 <section id="about" class="section-padding" style="padding: 60px 0;">
