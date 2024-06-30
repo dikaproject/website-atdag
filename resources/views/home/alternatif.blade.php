@@ -1,102 +1,4 @@
-<section id="sekitar" class="section-padding border-top">
-    <div class="container">
-        <div class="row">
-            <div class="col-12 text-center" data-aos="fade-down" data-aos-delay="150">
-                <div class="section-title">
-                    <h1 class="display-4 fw-semibold">Hotel Sekitar Venue</h1>
-                    <div class="line"></div>
-                    <p>Temukan kenyamanan dan kemudahan akses ke berbagai hotel terbaik yang berada di sekitar
-                        venue.</p>
-                </div>
-            </div>
-        </div>
-        <div class="row g-4 text-center ">
-            <div class="col-md-4" data-aos="fade-down" data-aos-delay="150">
-                <div class="team-member image-zoom">
-                    <div class="image-zoom-wrapper">
-                        <a href="https://ibis-styles-melbourne-the-victoria-hotel.hotelmix.id/" target="_blank">
-                            <img src="{{ asset('assets/Gambar HD/the victoria.png')}}" alt="">
-                        </a>
-                    </div>
-                    <div class="team-member-content">
-                        <h4 class="text-white">The Victoria</h4>
-                        <p class="mb-0 text-white">Hotel Melbourne</p>
-                    </div>
-                </div>
-            </div>
-            <div class="col-md-4" data-aos="fade-down" data-aos-delay="250">
-                <div class="team-member image-zoom">
-                    <div class="image-zoom-wrapper">
-                        <a href="https://all.accor.com/hotel/6371/index.en.shtml" target="_blank">
-                            <img src="{{ asset('assets/Gambar HD/ibis budget.png')}}" alt="">
-                        </a>
-                    </div>
-                    <div class="team-member-content">
-                        <h4 class="text-white">Ibis Budget Melbourne</h4>
-                        <p class="mb-0 text-white">Hotel Melbourne</p>
-                    </div>
-                </div>
-            </div>
-            <div class="col-md-4" data-aos="fade-down" data-aos-delay="350">
-                <div class="team-member image-zoom">
-                    <div class="image-zoom-wrapper">
-                        <a href="https://www.booking.com/hotel/au/grand-chancellor-melbourne.en-gb.html"
-                            target="_blank">
-                            <img src="{{ asset('assets/Gambar HD/grand chancellor.png')}}" alt="">
-                        </a>
-                    </div>
-                    <div class="team-member-content">
-                        <h4 class="text-white">Grand Chancellor</h4>
-                        <p class="mb-0 text-white">Hotel Melbourne</p>
-                    </div>
-                </div>
-            </div>
-        </div>
-        <div class="row g-4 text-center pt-5">
-            <div class="col-md-4" data-aos="fade-down" data-aos-delay="150">
-                <div class="team-member image-zoom">
-                    <div class="image-zoom-wrapper">
-                        <a href="https://www.booking.com/hotel/au/oaks-on-market.en-gb.html" target="_blank">
-                            <img src="{{ asset('assets/Gambar HD/oaks on market.png')}}" alt="">
-                        </a>
-                    </div>
-                    <div class="team-member-content">
-                        <h4 class="text-white">Oaks on Market</h4>
-                        <p class="mb-0 text-white">Hotel Melbourne</p>
-                    </div>
-                </div>
-            </div>
-            <div class="col-md-4" data-aos="fade-down" data-aos-delay="250">
-                <div class="team-member image-zoom">
-                    <div class="image-zoom-wrapper">
-                        <a href="https://www.booking.com/hotel/au/ibis-melbourne-central.en-gb.html?aid=356980&label=gog235jc-1DCAsoD0IWaWJpcy1tZWxib3VybmUtY2VudHJhbEgzWANoaIgBAZgBCbgBF8gBDNgBA-gBAYgCAagCA7gCmPfuswbAAgHSAiQ0MjdmOTI3ZS01NjllLTRkMTctYjhmOC0wYzE3MmM4NDBiNjDYAgTgAgE&sid=a38604593704132f0d59cb204c406cd6&dist=0&keep_landing=1&sb_price_type=total&type=total&"
-                            target="_blank">
-                            <img src="{{ asset('assets/Gambar HD/ibis central.png')}}" alt="">
-                        </a>
-                    </div>
-                    <div class="team-member-content">
-                        <h4 class="text-white">Ibis Melbourne Central </h4>
-                        <p class="mb-0 text-white">Hotel Melbourne</p>
-                    </div>
-                </div>
-            </div>
-            <div class="col-md-4" data-aos="fade-down" data-aos-delay="350">
-                <div class="team-member image-zoom">
-                    <div class="image-zoom-wrapper">
-                        <a href="https://www.booking.com/hotel/au/novotel-melbourne-south-wharf.en-gb.html"
-                            target="_blank">
-                            <img src="{{ asset('assets/Gambar HD/novotel.png')}}" alt="">
-                        </a>
-                    </div>
-                    <div class="team-member-content">
-                        <h4 class="text-white">Novotel South Wharf</h4>
-                        <p class="mb-0 text-white">Hotel Melbourne</p>
-                    </div>
-                </div>
-            </div>
-        </div>
-    </div>
-</section>
+
 
 <section id="sekitar" class="section-padding border-top">
     <div class="container">
@@ -609,39 +511,33 @@
                             referrerpolicy="strict-origin-when-cross-origin" allowfullscreen
                             style="border-radius: 10px;"></iframe>
                     </div>
-                    <h5 class="mt-2">Video Title 1</h5>
-                    <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Sit sequi quos magni!</p> <a
+                    <h5 class="mt-2">Tingkatkan Ekspor Kemendag Optimalkan Peran Atdag/ITPC
+                    </h5>
+                    <p>Tingkatkan Ekspor Kemendag Optimalkan Peran Atdag/ITPC
+                    </p> <a
                         href="https://youtu.be/J7L_iOW8Iys?si=RhCw_j604k3l1ZeG" target="_blank">Watch on
                         YouTube</a>
                 </div>
             </div>
             <div class="col-md-4" data-aos="fade-down" data-aos-delay="250">
                 <div class="team-member image-zoom">
-                    <div class="image-zoom-wrapper"  style="padding-top: 56.25%;"> <iframe width="100%" height="215"
-                            src="https://www.youtube.com/embed/J7L_iOW8Iys?si=8AYDm-uLe7EG08ZW"
-                            title="YouTube video player" frameborder="0"
-                            allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
-                            referrerpolicy="strict-origin-when-cross-origin" allowfullscreen
-                            style="border-radius: 10px;"></iframe>
+                    <div class="image-zoom-wrapper"  style="padding-top: 56.25%;"> <iframe style="border-radius: 10px" width="560" height="315" src="https://www.youtube.com/embed/Z7Xh5j44XKk?si=cHm1FzI-ORzXb6dV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
                     </div>
-                    <h5 class="mt-2">Video Title 2</h5>
-                    <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Sit sequi quos magni!</p> <a
-                        href="https://youtu.be/J7L_iOW8Iys?si=RhCw_j604k3l1ZeG" target="_blank">Watch on
+                    <h5 class="mt-2">Pelepasan Ekspor Produk Baja ke Tiga Negara di Purwakarta
+                    </h5>
+                    <p>Menteri Perdagangan, Zulkifli Hasan melepas ekspor 8 kontainer produk baja nexalume, nexium, dan nexcolor PT Tata Metal Lestari ke negara tujuan Australia, Kanada, dan Puerto Rico senilai USD 195.000 di Purwakarta, Jawa Barat, Jumat (21 Jun).</p> <a
+                        href="https://youtu.be/Z7Xh5j44XKk?si=fFoAWKMTVATY9OGP" target="_blank">Watch on
                         YouTube</a>
                 </div>
             </div>
             <div class="col-md-4" data-aos="fade-down" data-aos-delay="350">
                 <div class="team-member image-zoom">
-                    <div class="image-zoom-wrapper"  style="padding-top: 56.25%;"> <iframe width="100%" height="215"
-                            src="https://www.youtube.com/embed/J7L_iOW8Iys?si=8AYDm-uLe7EG08ZW"
-                            title="YouTube video player" frameborder="0"
-                            allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
-                            referrerpolicy="strict-origin-when-cross-origin" allowfullscreen
-                            style="border-radius: 10px;"></iframe>
+                    <div class="image-zoom-wrapper"  style="padding-top: 56.25%;"> <iframe style="border-radius: 10px" width="560" height="315" src="https://www.youtube.com/embed/GjAR3PXjOq0?si=on1hq8vjTOlnwJIN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
                     </div>
-                    <h5 class="mt-2">Video Title 3</h5>
-                    <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Sit sequi quos magni!</p> <a
-                        href="https://youtu.be/J7L_iOW8Iys?si=RhCw_j604k3l1ZeG" target="_blank">Watch on
+                    <h5 class="mt-2">Indonesia Sukses Gelar ASEAN Economic Ministers’ (AEM) Meeting 2023
+                    </h5>
+                    <p>Mendag mengungkapkan, selama rangkaian Pertemuan Menteri Ekonomi ASEAN berlangsung, Indonesia menandatangani dan mengesahkan banyak inisiatif serta dokumen peningkatan kerja sama, baik internal ASEAN maupun dengan berbagai mitra ASEAN. </p> <a
+                        href="https://youtu.be/GjAR3PXjOq0?si=pZr3sArrw0UbTj-K" target="_blank">Watch on
                         YouTube</a>
                 </div>
             </div>
